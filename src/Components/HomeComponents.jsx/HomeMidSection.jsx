@@ -161,6 +161,129 @@ let category=[
         value:'From ₹499'
     },
 ]
+
+let trending=[
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner1-22Oct2022.jpg',
+    value:'Up To 50% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner2-22Oct2022.jpg',
+    value:'Up To 50% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner3-22Oct2022.jpg',
+    value:'Up To 30% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner4-22Oct2022.jpg',
+    value:'Up To 40% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner5-22Oct2022.jpg',
+    value:'Up To 50% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner6-27Oct2022.jpg',
+    value:'Starting ₹299',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner7-22Oct2022.jpg',
+    value:'Up To 50% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner8-22Oct2022.jpg',
+    value:'Up To 50% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner9-22Oct2022.jpg',
+    value:'Up To 30% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner10-22Oct2022.jpg',
+    value:'Up To 30% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner11-22Oct2022.jpg',
+    value:'Up To 50% Off',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=288,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/PC1-Men-categorybanner12-22Oct2022.jpg',
+    value:'Up To 30% Off',
+  },
+]
+
+let toppicks=[
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-3modularblock-1-oneBythree-21June2022.jpg',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-3modularblock-2-oneBythree-21June2022.jpg',
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-3modularblock-3-oneBythree-21June2022.jpg',
+  },
+];
+
+let wintertrends=[
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LS-MEN-11modularblock-oneBythree-A-Men-09Sep2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LS-MEN-11modularblock-oneBythree-B-Men-10Oct2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/LS-MEN-11modularblock-oneBythree-C-Men-10Oct2022.jpg'
+  },
+]
+
+let mostlovedones=[
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-3modblck-1-oneBythreeA-07Sep2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-3modblck-2-oneBythreeA-24June20221.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-3modblck-3-oneBythreeA-24June2022.jpg'
+  },
+];
+let highlights=[
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-4modularblock-1-oneBythree-24June2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-4modularblock-2-oneBythree-19July2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-4modularblock-3-oneBythree-24June2022.gif'
+  },
+];
+let trendsetters=[
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-2modularblock-1-oneBythree-07Oct2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-2modularblock-2-oneBythree-16Sep2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-2modularblock-3-oneBythree-16Sep2022.jpg'
+  },
+];
+let activewardrobe=[
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-15modularblock-1-oneBythree-16Sep2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-15modularblock-2-oneBythree-16Sep2022.jpg'
+  },
+  {
+    src:'https://lmsin.net/cdn-cgi/image/w=500,q=70,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-Men-15modularblock-3-oneBythree-16Sep2022.jpg'
+  },
+];
+
+
+
 export default function HomeMidSection() {
   return (
     <>
@@ -182,6 +305,7 @@ export default function HomeMidSection() {
             boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
             marginBottom: "30px",
             paddingBottom: "30px",
+            flexWrap:'wrap',
           }}
         >
           {valuepicks.map((elem) => {
@@ -283,6 +407,160 @@ export default function HomeMidSection() {
                 <div>
                   <p style={{fontSize:'18px' , fontWeight:'500'}}>{elem.value}</p>
                 </div>
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Top Trending Brands</h2>
+        </div>
+        <div
+          style={{
+            display: "grid",
+            gridTemplateColumns: "repeat(6,1fr)",
+            justifyContent: "space-around",
+            boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+            marginBottom: "30px",
+            paddingBottom: "30px",
+          }}
+        >
+          {trending.map((elem) => {
+            return (
+              <div style={{ width: "190px" }}>
+                <img src={elem.src} alt="" style={{ width: "100%" }} />
+                <div>
+                  <p style={{fontSize:'18px' , fontWeight:'500'}}>{elem.value}</p>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Flash Sale for Today</h2>
+        </div>
+        <div style={{ marginTop: "30px" }}>
+          <img
+            src="https://lmsin.net/cdn-cgi/image/w=1232,q=60,fit=cover/https://70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.lmsin.net/LS-Fest/LS-new/desktop-LS-MEN-modularblock7-oneBythree-A-Men-04Nov2022.jpg"
+            alt=""
+            style={{ width: "100%" }}
+          />
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Top Picks</h2>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-around",
+            boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+            marginBottom: "30px",
+            paddingBottom: "30px",
+          }}
+        >
+          {toppicks.map((elem) => {
+            return (
+              <div style={{ width: "380px" }}>
+                <img src={elem.src} alt="" style={{ width: "100%" }} />
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Winter Trends</h2>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-around",
+            boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+            marginBottom: "30px",
+            paddingBottom: "30px",
+          }}
+        >
+          {wintertrends.map((elem) => {
+            return (
+              <div style={{ width: "380px" }}>
+                <img src={elem.src} alt="" style={{ width: "100%" }} />
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Most Loved Styles</h2>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-around",
+            boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+            marginBottom: "30px",
+            paddingBottom: "30px",
+          }}
+        >
+          {mostlovedones.map((elem) => {
+            return (
+              <div style={{ width: "380px" }}>
+                <img src={elem.src} alt="" style={{ width: "100%" }} />
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Highlights of the Day</h2>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-around",
+            boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+            marginBottom: "30px",
+            paddingBottom: "30px",
+          }}
+        >
+          {highlights.map((elem) => {
+            return (
+              <div style={{ width: "380px" }}>
+                <img src={elem.src} alt="" style={{ width: "100%" }} />
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Trendsetters</h2>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-around",
+            boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+            marginBottom: "30px",
+            paddingBottom: "30px",
+          }}
+        >
+          {trendsetters.map((elem) => {
+            return (
+              <div style={{ width: "380px" }}>
+                <img src={elem.src} alt="" style={{ width: "100%" }} />
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ fontSize: "24px", fontWeight: "600", textAlign: "left" }}>
+          <h2 style={{ fontWeight: "lighter" }}>Active Wardrobe</h2>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-around",
+            boxShadow: "rgba(0, 0, 0, 0.05) 0px 0px 0px 1px",
+            marginBottom: "30px",
+            paddingBottom: "30px",
+          }}
+        >
+          {activewardrobe.map((elem) => {
+            return (
+              <div style={{ width: "380px" }}>
+                <img src={elem.src} alt="" style={{ width: "100%" }} />
               </div>
             );
           })}
