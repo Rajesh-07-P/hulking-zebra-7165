@@ -30,9 +30,7 @@ export default function Slider() {
   return (
     <>
       <Flex mt="20px" verticalAlign="center" maxW="90%" margin="auto" justify="center">
-        <IconButton aria-label='Search database' icon={<AiOutlineLeft/>} verticalAlign="center" />
         <Image src={src[index]} alt="Dan Abramov" maxW="90%" margin="auto" display="inline-block"/>
-        <IconButton aria-label='Search database' icon={<AiOutlineRight/>} verticalAlign="center" />
       </Flex>
     </>
   );
